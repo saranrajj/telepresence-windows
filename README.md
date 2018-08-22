@@ -25,7 +25,7 @@ The docker version i am using is </br>
   Built:            Wed Jul 18 19:13:46 2018</br>
   OS/Arch:          linux/amd64</br>
   Experimental:     true</br>
- <b>Kubernetes:<b></br>
+ <b>Kubernetes:</b></br>
   Version:          v1.10.3</br>
   StackAPI:         v1beta2</br>
   
