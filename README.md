@@ -1,5 +1,5 @@
-# telepresence-practice
-To practice Telepresence with windows 10 &  Docker for windows installation
+# telepresence-windows
+To test Telepresence with windows 10 &  Docker for windows installation
 
 The new docker for windows is exciting to work with, since it has built in kubernetes support. However, among the various tools for kubernetes, telepresence has gained alot of popularity since its easy to inject the local process into the running kube environment.
 
